@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\functionPractice\functionPractice\bin\Debug\functionPractice.exe.config
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\functionPractice\functionPractice\bin\Debug\functionPractice.exe
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\functionPractice\functionPractice\bin\Debug\functionPractice.pdb
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\functionPractice\functionPractice\obj\Debug\functionPractice.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\functionPractice\functionPractice\obj\Debug\functionPractice.exe
+C:\Users\Technologist\Documents\GitHub\Program5Solutions\functionPractice\functionPractice\obj\Debug\functionPractice.pdb
